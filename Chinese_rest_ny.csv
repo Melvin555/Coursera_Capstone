@@ -1,0 +1,91 @@
+Borough,Neighborhood,ID,Name
+Bronx,Pelham Parkway,4b9d6b45f964a52078ab36e3,Mr. Q's Chinese Restaurant
+Bronx,University Heights,566f33e7498e44c2501bda81,Panda Express
+Bronx,Fordham,566f33e7498e44c2501bda81,Panda Express
+Bronx,West Farms,4c7e9ddafb13a1cdf5369ea4,El Pabelon De Oro
+Bronx,Hunts Point,4c7e9ddafb13a1cdf5369ea4,El Pabelon De Oro
+Bronx,Soundview,4c7e9ddafb13a1cdf5369ea4,El Pabelon De Oro
+Brooklyn,Bensonhurst,4c65da95f7a80f47b6959c7a,Spicy Bampa
+Brooklyn,Bensonhurst,5a7f87920d173f267e27cc36,Golden City Seafood
+Brooklyn,Sunset Park,4bfaf805d0382d7f520ac90a,China Delight
+Brooklyn,East Flatbush,4c1ad571eac020a10a0144c2,China Hao Restaurant
+Brooklyn,Windsor Terrace,54e39b14498e9c646b42958e,East Wind Snack Shop
+Brooklyn,Flatlands,4b5a6114f964a52043c128e3,China New Star
+Brooklyn,Flatlands,4c2fdd973896e21e87bfe490,Dynasty Chinese Restaurant
+Brooklyn,Mill Island,4b5a6114f964a52043c128e3,China New Star
+Brooklyn,Dyker Heights,4b1c3b4cf964a520bb0424e3,Grand Sichuan House
+Brooklyn,Marine Park,4b5a6114f964a52043c128e3,China New Star
+Brooklyn,Downtown,59da9590e1f0aa52976b8f35,Han Dynasty
+Brooklyn,Downtown,585d72449f25836f2b2b7a1b,Xifu Food
+Brooklyn,Ocean Hill,4d8151697c956dcb09cff27b,New Jin Shing Chinese Restuarant
+Brooklyn,Bergen Beach,4b5a6114f964a52043c128e3,China New Star
+Brooklyn,Georgetown,4b5a6114f964a52043c128e3,China New Star
+Brooklyn,North Side,58df00318cfe546addb99246,Birds of a Feather
+Manhattan,Chinatown,4db3374590a0843f295fb69b,Spicy Village
+Manhattan,Chinatown,4a96bf8ff964a520ce2620e3,Wah Fung Number 1 Fast Food 華豐快飯店
+Manhattan,Chinatown,5894c9a15e56b417cf79e553,Xi'an Famous Foods
+Manhattan,Central Harlem,4bf348fce5eba593c8711e90,Crispy Bamboo Village
+Manhattan,Central Harlem,4bd1f6909854d13a38a2fa4d,88 Chinese Restaurant
+Manhattan,Lenox Hill,4ea5be4af5b9efc002cccdea,Shanghai
+Manhattan,Upper West Side,5529bfd8498ec6ce692d8015,Han Dynasty
+Manhattan,Murray Hill,4e3484038877beb5e9a22a0b,Café China
+Manhattan,Chelsea,44e9b421f964a520a5371fe3,Buddakan
+Manhattan,Lower East Side,5b380f649deb7d00399fdf9d,Kings County Imperial
+Manhattan,Tribeca,5237264111d27e8e90c10357,China Blue
+Manhattan,Little Italy,59ad625a2619ee5cdded881f,House Special 甘來飯店
+Manhattan,Manhattan Valley,529e3657498efb17e9c800b7,Xi'an Famous Foods
+Queens,Woodside,4ae1d8b2f964a520e78721e3,Peking BBQ Chicken
+Queens,Elmhurst,4eaf0752d3e30d448393b841,Lao Bei Fang
+Queens,Elmhurst,56296f14498edb1ed77b64a3,Five Loaves and Two Fishes
+Queens,Flushing,5747a89b498ee4b7a5106556,DunHuang Lanzhou Beef Noodle
+Queens,Rego Park,56316c73498ebdd0e0e53e95,Green Zenphony
+Queens,College Point,4d8805b7d85f370481b0c9db,Little Pepper
+Queens,College Point,4bffe248ca1920a1206ced81,Keilly Chinese Restaurant
+Queens,Little Neck,53acac39498e3f6a67265048,Moonstone
+Queens,Little Neck,53794fd211d282a3cce576a2,Little Dumpling 李小籠
+Queens,Douglaston,53acac39498e3f6a67265048,Moonstone
+Queens,Douglaston,53794fd211d282a3cce576a2,Little Dumpling 李小籠
+Queens,Kew Gardens Hills,4c5a18e26407d13a1301b428,Panda Garden
+Queens,Briarwood,4c5a18e26407d13a1301b428,Panda Garden
+Queens,Cambria Heights,4bd08bd8462cb713a392d807,Szechuan Delight
+Queens,Far Rockaway,4e4e41e8bd4101d0d7a620e0,Magic Wok
+Queens,Far Rockaway,4eb9c26046906fa3574d411f,Lucky Cornaga
+Queens,Edgemere,4e4e41e8bd4101d0d7a620e0,Magic Wok
+Queens,Queensboro Hill,4ac90140f964a520f7bd20e3,Main Street Taiwanese Gourmet 北港台菜
+Queens,Queensboro Hill,50e9c4b1e4b0541e6c67a2ab,Hly Chinese Cuisine (三人百姓)
+Queens,Queensboro Hill,4d1bcddc1356224bc6410abe,OK Ryan
+Queens,Queensboro Hill,4c2bfb622219c928f58ca548,Fukuoka Shabu Shabu
+Queens,Queensboro Hill,4ac38216f964a520929b20e3,Golden Shopping Mall
+Queens,Queensboro Hill,4c0ae17b009a0f47f63feabf,Hunan Kitchen Of Grand Sichuan
+Queens,Queensboro Hill,559f3c6a498e9eb732ee3027,Deng Ji Noodle House 云南过桥米线
+Queens,Hillcrest,4bd8e0dae914a5930afa54fa,Chef's Garden
+Queens,Lindenwood,4bca326b511f95210b4bafc7,Danny's Szechuan Garden
+Staten Island,Todt Hill,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,South Beach,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Port Richmond,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Mariner's Harbor,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Castleton Corners,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Tottenville,4c7955c597028cfab8b4dafe,Fu Lin
+Brooklyn,Wingate,4c1ad571eac020a10a0144c2,China Hao Restaurant
+Brooklyn,Rugby,4c1ad571eac020a10a0144c2,China Hao Restaurant
+Staten Island,Westerleigh,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Graniteville,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Arlington,4c254b83a852c92818ade46c,Crown Palace
+Staten Island,Arrochar,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Grasmere,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Old Town,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Dongan Hills,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Midland Beach,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Grant City,4bba73677421a593ebd4c340,Jac Mao
+Staten Island,Bulls Head,5165e9fee4b08d4837e87f35,Empire East
+Staten Island,Elm Park,4c254b83a852c92818ade46c,Crown Palace
+Brooklyn,Remsen Village,4c1ad571eac020a10a0144c2,China Hao Restaurant
+Brooklyn,Mill Basin,4b5a6114f964a52043c128e3,China New Star
+Bronx,Claremont Village,4d9a695ee5fd6ea8e3096df5,Lucky House Chinese Restaurant
+Brooklyn,Weeksville,4daa263f0cb6a89c62682125,Hardee
+Brooklyn,Broadway Junction,4d8151697c956dcb09cff27b,New Jin Shing Chinese Restuarant
+Brooklyn,Homecrest,4b46743ff964a520892126e3,"Golden ""Z"" Restaurant"
+Queens,Middle Village,4bfb224fd2b720a1a5a9326a,Jade Bamboo
+Bronx,Kingsbridge Heights,4d965fd061a3a1cde4989a42,Lucky Star Chinese Restaurant
+Queens,Bayswater,4e4e41e8bd4101d0d7a620e0,Magic Wok
+Queens,Bayswater,4eb9c26046906fa3574d411f,Lucky Cornaga
